@@ -5,4 +5,5 @@ def anti_vowel(text):
        text = text.replace(p, '')
     print text
 
+print text
 anti_vowel(text)
